@@ -1,2 +1,2 @@
 # C_problems:
-there's some problem solving by C programming language
+There's some problems solving by C programming language
