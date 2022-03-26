@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1636641559 source:c:\users\youcode\documents\project langage c\exercices_youcode\exc1.c
+	<stdio.h>
+	<stdlib.h>
+
+1636708331 source:c:\users\youcode\documents\project langage c\exercices_youcode\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1636641671 source:c:\users\youcode\documents\project langage c\exercices_youcode\exc2.c
+	<stdio.h>
+	<stdlib.h>
+
+1636639998 source:c:\users\youcode\documents\project langage c\exercices_youcode\exc3.c
+	<stdio.h>
+	<stdlib.h>
+
+1636639031 source:c:\users\youcode\documents\project langage c\exercices_youcode\exc4.c
+	<stdio.h>
+	<stdlib.h>
+
+1636640015 source:c:\users\youcode\documents\project langage c\exercices_youcode\exc5.c
+	<stdio.h>
+	<stdlib.h>
+
+1636641999 source:c:\users\youcode\documents\project langage c\exercices_youcode\exc6.c
+	<stdio.h>
+	<stdlib.h>
+
+1636639115 source:c:\users\youcode\documents\project langage c\exercices_youcode\exc7.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1636639640 source:c:\users\youcode\documents\project langage c\exercices_youcode\exc8.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1636639800 source:c:\users\youcode\documents\project langage c\exercices_youcode\exc9.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1636708429 source:c:\users\youcode\documents\project langage c\exercices_youcode\calculator exercice.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

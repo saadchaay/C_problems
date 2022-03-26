@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Array-test" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Array-test" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Array-test" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Insertion_tab.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="addition_dx_mat.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="display_tab.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="matrice_unitaire.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mis_zero_diagonal.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="multiplication_2_mat.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="multiplication_x_reel.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="recherch_points-cols.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="transposition_matrice.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="tri_propagation.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="tri_select.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="triangle_PASCAL.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

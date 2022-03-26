@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1637163981 source:c:\users\youcode\documents\project langage c\projet sas 2020\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1637160577 source:c:\users\youcode\documents\project langage c\projet sas 2020\insert_beg.c
+	<stdio.h>
+	<stdlib.h>
+
+1637162038 source:c:\users\youcode\documents\project langage c\projet sas 2020\display_list.c
+	<stdio.h>
+	<stdlib.h>
+
+1637161672 source:c:\users\youcode\documents\project langage c\projet sas 2020\delete_node.c
+	<stdio.h>
+	<stdlib.h>
+

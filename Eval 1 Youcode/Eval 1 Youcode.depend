@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1636710468 source:c:\users\youcode\documents\project langage c\eval 1 youcode\ex1.c
+	<stdio.h>
+	<stdlib.h>
+
+1636711955 source:c:\users\youcode\documents\project langage c\eval 1 youcode\ex2.c
+	<stdio.h>
+	<stdlib.h>
+
+1636715686 source:c:\users\youcode\documents\project langage c\eval 1 youcode\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1636714641 source:c:\users\youcode\documents\project langage c\eval 1 youcode\ex3.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1637335121 source:c:\users\youcode\documents\project langage c\array-test\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1637315029 source:c:\users\youcode\documents\project langage c\array-test\tri_select.c
+	<stdio.h>
+	<stdlib.h>
+
+1637330468 source:c:\users\youcode\documents\project langage c\array-test\display_tab.c
+	<stdio.h>
+	<stdlib.h>
+
+1637320955 source:c:\users\youcode\documents\project langage c\array-test\insertion_tab.c
+	<stdio.h>
+	<stdlib.h>
+
+1637315708 source:c:\users\youcode\documents\project langage c\array-test\tri_propagation.c
+	<stdio.h>
+	<stdlib.h>
+
+1637315682 source:c:\users\youcode\documents\project langage c\array-test\mis_zero_diagonal.c
+	<stdio.h>
+	<stdlib.h>
+
+1637316400 source:c:\users\youcode\documents\project langage c\array-test\matrice_unitaire.c
+	<stdio.h>
+	<stdlib.h>
+
+1637317819 source:c:\users\youcode\documents\project langage c\array-test\transposition_matrice.c
+
+1637318552 source:c:\users\youcode\documents\project langage c\array-test\multiplication_x_reel.c
+	<stdio.h>
+	<stdlib.h>
+
+1637318742 source:c:\users\youcode\documents\project langage c\array-test\addition_dx_mat.c
+	<stdio.h>
+	<stdlib.h>
+
+1637329940 source:c:\users\youcode\documents\project langage c\array-test\multiplication_2_mat.c
+	<stdio.h>
+	<stdlib.h>
+
+1637330133 source:c:\users\youcode\documents\project langage c\array-test\triangle_pascal.c
+	<stdio.h>
+	<stdlib.h>
+
+1637334728 source:c:\users\youcode\documents\project langage c\array-test\recherch_points-cols.c
+	<stdio.h>
+	<stdlib.h>
+

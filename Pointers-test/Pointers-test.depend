@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1637335967 source:c:\users\youcode\documents\project langage c\pointers-test\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1637336603 source:c:\users\youcode\documents\project langage c\pointers-test\inesre_tab_point.c
+	<stdio.h>
+	<stdlib.h>
+
